@@ -5,5 +5,3 @@
 - **Ruby on Rails**.
 - **PHP**,**Laravel** and **CodeIgniter**.
 - **Java**,**Springboot** and **Mybatis**.
-
-Please contact me on Skype - live:.cid.a6a26124dea55df9
