@@ -1,1 +1,1 @@
-### Love Python
+### Love Python and Javascript
